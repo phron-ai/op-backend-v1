@@ -34,7 +34,7 @@ OpenPhron Marketplace provides a platform for users to explore various AI oracle
 
    -**OPENAI_API_KEY** : your-OPENAI_API_KEY.
 
-   -**RPC_URL**: Arbitrum Sepolia RPC.
+   -**RPC_URL**: any RPC urls.
 
    -**PORT**: 9001.
 
